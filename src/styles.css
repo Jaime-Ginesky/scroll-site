@@ -1,0 +1,26 @@
+.main {
+    width: 960px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.right-nav {
+    float:left;
+    width: 200px;
+    position: fixed;
+    left: 50px;
+    top: 10%;
+}
+
+.left-content {
+    width: 700px;
+    float: right;
+}
+
+footer {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    padding: 0 10px 10px 0;
+    display: none;
+}
